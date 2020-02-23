@@ -1,5 +1,5 @@
-# shiro
-Personal side projects to help me gain understanding and experience of analysing data.
+# E-sports
+My first side project to help me gain understanding and experience of analysing data.
 
 
 LCS 2019 analysis:
