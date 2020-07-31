@@ -1,8 +1,8 @@
-# E-sports
+# E-Sports: EDA of the LCS 2019 Tournament
 
-LCS 2019 analysis:
+## Contents
+* [Background]
 
-I use exploratory data analysis to look at which variables affect the match outcome in a E-Sports tournament, of the game League of Legends (LoL).
+[Link text](#some-id)
 
-Using Python (with pandas, matplotlib and seaborn packages), I also investigate any other interesting trends between variables in the dataset.
-
+# <a name="some-id"></a> DETAIL SECTION
