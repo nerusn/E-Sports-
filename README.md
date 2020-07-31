@@ -1,8 +1,6 @@
 # E-Sports: EDA of the LCS 2019 Tournament
 
 ## Contents
-* [Background]
+* [Background](#some-id)
 
-[Link text](#some-id)
-
-# <a name="some-id"></a> DETAIL SECTION
+## <a name="some-id"></a> Background
