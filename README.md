@@ -95,7 +95,7 @@ This relationship with a -0.58 coefficient shows a distribution that is fairly n
 
 In general, many of the relationships found were as expected, except for some findings. The interesting relationships are the the "first turret" and "result" relationship, and the overall vision control relationships.
 
-We had restricted our analysis to team statistics for this report. One of the main reasons were that a lot of individual player statistics are redily available online, and are largely known. This is also the case with the champions played, having their pick rate, ban rate, and win rate analysed. So, by focusing on team statistics, we were able to find more interesting and lesser known results.
+We had restricted our analysis to team statistics for this report. One of the main reasons were that a lot of individual player statistics are readily available online, and are largely known. This is also the case with the champions played, having their pick rate, ban rate, and win rate analysed. So, by focusing on team statistics, we were able to find more interesting and lesser known results.
 
 One limitation of our findings was that since there only 119 games recorded during this LCS 2019 tourney, the relationships discovered are not reliable, due to the low sample size.
 
