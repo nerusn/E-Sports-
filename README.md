@@ -1,6 +1,12 @@
 # E-Sports: EDA of the LCS 2019 Tournament
 
 ## Contents
-* [Background](#some-id)
+* [Background](#backgr)
+* [Data Collection](#collect)
+* [Results](#result)
 
-## <a name="some-id"></a> Background
+## <a name="backgr"></a> Background
+
+## <a name="collect"></a> Data Collection
+
+## <a name="result"></a> Results
